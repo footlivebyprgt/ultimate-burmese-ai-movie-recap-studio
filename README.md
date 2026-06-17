@@ -16,17 +16,17 @@ This "Ultimate" version is built upon the research and code patterns of the foll
 
 | Source Repository | Key Features Integrated |
 | :--- | :--- |
-| [muyarmuyarpar-crypto/movie-recap-bot](https://github.com/muyarmuyarpar-crypto/movie-recap-bot) | Telegram bot integration & basic recap logic |
-| [movierecapbot/movie-recap-bot-pro](https://github.com/movierecapbot/movie-recap-bot-pro) | Professional UI layout & Gemini integration |
-| [Shangyi69/mm-movie-recap-bot](https://github.com/Shangyi69/mm-movie-recap-bot) | Burmese language localization patterns |
-| [thanwailwin14-png/Thaung-wai-lwin](https://github.com/thanwailwin14-png/Thaung-wai-lwin) | React-based web app structure & UI ideas |
-| [Minhal-Ahmed/CineRecap](https://github.com/Minhal-Ahmed/CineRecap) | Core Python logic for movie analysis |
-| [myintwai/movie-recap-ai](https://github.com/myintwai/movie-recap-ai) | YouTube integration & automation |
-| [yannainglynntt-ship-it/My-recap-ai](https://github.com/yannainglynntt-ship-it/My-recap-ai) | FastAPI backend & high-performance processing |
-| [xiaohu2206/movie-recap-clone](https://github.com/xiaohu2206/movie-recap-clone) | Advanced video processing pipelines |
-| [ytscriptmm-a11y/movie-recap-ai](https://github.com/ytscriptmm-a11y/movie-recap-ai) | Feature-rich studio capabilities |
-| [aidenforwechat-design/auto-recap](https://github.com/aidenforwechat-design/auto-recap) | SRT-based automation & subtitle handling |
-| [aipromptguidevideos-coder/pro-dubbing-engine-pro](https://github.com/aipromptguidevideos-coder/pro-dubbing-engine-pro) | Precise audio timing & parallel TTS generation |
+| [footlivebyprgt/movie-recap-bot-telegram](https://github.com/footlivebyprgt/movie-recap-bot-telegram) | Telegram bot integration & basic recap logic |
+| [footlivebyprgt/movie-recap-bot-pro](https://github.com/footlivebyprgt/movie-recap-bot-pro) | Professional UI layout & Gemini integration |
+| [footlivebyprgt/mm-movie-recap-telegram](https://github.com/footlivebyprgt/mm-movie-recap-telegram) | Burmese language localization patterns |
+| [footlivebyprgt/movie-recap-webapp](https://github.com/footlivebyprgt/movie-recap-webapp) | React-based web app structure & UI ideas |
+| [footlivebyprgt/cinerecap-python](https://github.com/footlivebyprgt/cinerecap-python) | Core Python logic for movie analysis |
+| [footlivebyprgt/movie-recap-youtube](https://github.com/footlivebyprgt/movie-recap-youtube) | YouTube integration & automation |
+| [footlivebyprgt/movie-recap-fastapi](https://github.com/footlivebyprgt/movie-recap-fastapi) | FastAPI backend & high-performance processing |
+| [footlivebyprgt/movie-recap-advanced-pipeline](https://github.com/footlivebyprgt/movie-recap-advanced-pipeline) | Advanced video processing pipelines |
+| [footlivebyprgt/movie-recap-studio-pro](https://github.com/footlivebyprgt/movie-recap-studio-pro) | Feature-rich studio capabilities |
+| [footlivebyprgt/movie-recap-srt-auto](https://github.com/footlivebyprgt/movie-recap-srt-auto) | SRT-based automation & subtitle handling |
+| [footlivebyprgt/pro-dubbing-engine-pro](https://github.com/footlivebyprgt/pro-dubbing-engine-pro) | Precise audio timing & parallel TTS generation |
 
 ---
 
